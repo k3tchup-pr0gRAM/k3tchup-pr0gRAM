@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @k3tchup-pr0gRAM
+- 👋 Hi, I’m @f4ceibro
 - 👀 I’m interested in programms
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on me
-- 📫 How to reach me - k3tchup
+- 📫 How to reach me - f4ceitbro
 - 😄 Pronouns: he
 - ⚡ Fun fact: really pro
 
